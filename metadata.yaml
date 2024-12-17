@@ -1,0 +1,35 @@
+_repo: Gala-Placidia-b-Tragedia-en-tres-actes_74795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guimerá, Angel
+    aliases:
+    - Guimerà, Angel
+    - Guimera, Angel
+    - Jorge, Angel Guimerà i
+    - Jorge, Angel Guimerá y
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '57216'
+    url: http://www.gutenberg.org/2009/agents/57216
+    wikipedia: https://ca.wikipedia.org/wiki/%C3%80ngel_Guimer%C3%A0_i_Jorge
+description: ''
+gutenberg_issued: '2024-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74795'
+language: ca
+pgterms:marc905: 20241120091730guimera
+pgterms:marc906: '1879'
+pgterms:marc907: ES
+production_note: editor digital. Joan Queralt Gil
+publication_note: '  $aBarcelona :$bImprenta de la Renaixensa, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan drama'
+- !lcc 'PC'
+- GITenberg
+title: 'Gala Placidia : $b Tragedia en tres actes'
+url: http://www.gutenberg.org/ebooks/74795
