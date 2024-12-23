@@ -1,5 +1,8 @@
 _repo: Gala-Placidia-b-Tragedia-en-tres-actes_74795
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74795-h/images/cover.jpg
 creator:
   author:
     agent_name: Guimerá, Angel
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57216
     wikipedia: https://ca.wikipedia.org/wiki/%C3%80ngel_Guimer%C3%A0_i_Jorge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74795#Gala-Placidia-b-Tragedia-en-tres-actes
 gutenberg_issued: '2024-11-25'
 gutenberg_type: Text
 identifiers:
